@@ -159,5 +159,7 @@ def game_won(mylist, myinput):
 
     return result
 
+def main_1():
+    pass
 
-game_start()
+
